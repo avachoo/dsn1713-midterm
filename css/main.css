@@ -2,7 +2,23 @@
 
 /* Set custom variables here */
 
+:root {
+  --primary: #2e483a;
+  --bs-primary-rgb: rgb(46, 72, 58);
+  --secondary: #f6f3ed;
+}
 
+nav {
+  background-color: var(--primary)
+}
+
+.custom-btn {
+  background-color: #2e483a;
+}
+
+#section-1 {
+  background-color: var(--secondary);
+}
 
 
 
