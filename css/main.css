@@ -20,6 +20,18 @@ nav {
   background-color: var(--secondary);
 }
 
+#section-2 {
+  background-color: var(--secondary);
+}
+
+#section-3 {
+  background-color: var(--primary);
+}
+
+#section-4 {
+  background-color: var(--secondary);
+}
+
 
 
 .navbar-brand {
@@ -67,3 +79,4 @@ section:not(#hero):not(#cta){
     padding: 100px 0;
   }
 }
+
