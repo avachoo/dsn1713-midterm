@@ -16,6 +16,12 @@ nav {
   background-color: #2e483a;
 }
 
+.custom-btn:hover, .custom-btn:focus {
+  background-color: white;
+  color: #2e483a;
+  border:#2e483a;
+}
+
 #section-1 {
   background-color: var(--secondary);
 }
@@ -31,6 +37,11 @@ nav {
 #section-4 {
   background-color: var(--secondary);
 }
+
+#section-5 {
+  background-color: var(--primary);
+}
+
 
 
 
